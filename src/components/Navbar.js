@@ -22,8 +22,8 @@ export default function Navbar() {
             <img className="mx-3 my-3" src={airbnblogo} style={imgStyle}/>
 
             </div>
-        </div>
-        </nav>
+        </div>  
+        </nav> 
 
         
     )
